@@ -1,1 +1,3 @@
-# tomi1
+function opposite(number) {
+  return(-number);
+}
